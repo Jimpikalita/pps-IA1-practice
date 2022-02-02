@@ -1,4 +1,3 @@
-[3:02 pm, 02/02/2022] Prerana Reva 💕: #include<stdio.h>
 int input()
 {
   int a;
